@@ -1,4 +1,4 @@
-# ![](https://github.com/osamuelleal/osamuelleal/blob/main/github_header_img.png)
+# ![](https://github.com/osamuelleal/osamuelleal/blob/main/github-header-image.png)
 
 <div>
   <p align="center">
