@@ -24,9 +24,15 @@ I am passionate about technology, entrepreneurship and personal development. So,
   <li>Python</li>
   <li>Artificial Intelligence</li>
   <li>Machine Learning</li>
-  <li>No-Code Development</li>
-  
-  
+  <li>No-Code Development</li>  
+</ul>
+
+
+### Categories 📌
+<ul>
+  <li>Data Science</li>
+  <li>Data Engineer</li>
+  <li>No Code</li>
 </ul>
 
 <!---### 🧐 My Github stats...
