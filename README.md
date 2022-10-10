@@ -28,6 +28,10 @@ I am passionate about technology, entrepreneurship and personal development. So,
   <li>No-Code Development</li>  
 </ul>
 
+### MLOps
+See my Dagshub profile for MLOps projects and tests 👉🏻
+https://dagshub.com/samuelleal1997
+
 
 <!---### 🧐 My Github stats...
 
