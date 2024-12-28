@@ -21,10 +21,10 @@ I am passionate about technology, entrepreneurship and personal development. So,
 ### Interests ⚡
 
 <ul>
-  <li>Python</li>
-  <li>Data Analysis</li>
-  <li>Machine Learning</li>
-  <li>Data Engineer</li>
+  <li>Artificial Inteligence</li>
+  <li>Automations</li>
+  <li>N8N</li>
+  <li>ChatGPT</li>
   <li>No-Code Development</li>  
 </ul>
 
